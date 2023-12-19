@@ -1,0 +1,2 @@
+MedicineName=MedicineName=dolo, MedicineCompany= MedicineCompany=gsk, ExpiryDate= ExpiryDate=01-01-2025, Availability= Availability=100
+MedicineName=tomato, MedicineCompany=gsk, ExpiryDate=01-12-1221, Availability=9
